@@ -1,0 +1,21 @@
+# Large datasets
+
+data/*.csv
+
+# Large models
+
+models/*.joblib
+
+# Python cache
+
+**pycache**/
+*.pyc
+
+# Streamlit cache
+
+.streamlit/
+
+# Virtual env
+
+venv/
+env/
